@@ -1,0 +1,1 @@
+{"version":3,"file":"mysqldb.js","sourceRoot":"","sources":["../src/mysqldb.ts"],"names":[],"mappings":";;;AAAA,iCAAmC;AAEtB,QAAA,OAAO,GAAG,kBAAU,CAAC;IAChC,IAAI,EAAE,WAAW;IACjB,IAAI,EAAE,MAAM;IACZ,QAAQ,EAAE,EAAE;IACZ,QAAQ,EAAE,YAAY;IAEtB,eAAe,EAAE,GAAG;CACrB,CAAC,CAAC"}
